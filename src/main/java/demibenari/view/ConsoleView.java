@@ -1,5 +1,5 @@
 package demibenari.view;
 
-public class ConsoleView {
+public interface ConsoleView {
 
 }
