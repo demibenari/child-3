@@ -5,6 +5,7 @@ import demibenari.common.entities.Item;
 import java.util.List;
 
 /**
+ *
  * Created by Demi on 12/13/2014.
  */
 public interface ListView {
